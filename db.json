@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": "1", "name": "Iphone 14 pro max", "price": 200 },
+    { "id": "2", "name": "Iphone 13 pro max", "price": 190 },
+    { "id": "3", "name": "Iphone 12 pro max", "price": 180 }
+  ]
+}
